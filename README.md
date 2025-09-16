@@ -1,4 +1,3 @@
-```md
 # 🛡️ Govhub Backend
 
 A modular, audit-ready backend built with **Express + TypeScript**, designed for compliance platforms that demand clarity, resilience, and scale.
