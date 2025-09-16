@@ -182,4 +182,3 @@ This project is licensed under the MIT License.
 
 - **Simbarashe** — Lead Architect & Technical Strategist  
 - **Contributors** — Welcome!  
-```
