@@ -180,5 +180,5 @@ This project is licensed under the MIT License.
 
 ## 👥 Maintainers
 
-- **Simbarashe** — Lead Architect & Technical Strategist  
+- **Simbarashe Kuwanda** — Lead Architect & Technical Strategist  
 - **Contributors** — Welcome!  
